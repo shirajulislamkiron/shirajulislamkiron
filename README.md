@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shirajulislamkiron
+- 👋 Hi, I’m @shirajulislamkiron , A Wordpress Developer
 - 👀 I’m interested in Data Science & Data analyst topics
 - 🌱 I’m currently learning CNN mrthod which is a part of Deep Learning
 - 💞️ I’m looking to collaborate on my admission cover letter & also for my portfolio
